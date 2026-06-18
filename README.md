@@ -18,6 +18,9 @@
 
 A premium, cyberpunk-inspired AI CLI for founders who ship fast. Generate startup ideas, write landing copy, get tech stack recommendations, scaffold real projects, and brainstorm with an AI co-founder all from your terminal.
 
+## DEMO VIDEO
+[![DEMO VIDEO](https://cdn-icons-png.flaticon.com/512/1383/1383260.png)](https://youtu.be/B746aFd9cAs)
+
 ***
 
 ## ✨ Features
