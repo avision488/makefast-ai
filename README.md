@@ -11,8 +11,8 @@
   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝╚══════╝   ╚═╝        ╚═╝  ╚═╝╚═╝
 ```
 
-[![npm version](https://img.shields.io/npm/v/launchfast-ai.svg?style=flat-square&color=00C9B1)](https://www.npmjs.com/package/makefast-ai)
-[![npm downloads](https://img.shields.io/npm/dm/launchfast-ai.svg?style=flat-square&color=00C9B1)](https://www.npmjs.com/package/makefast-ai)
+[![npm version](https://img.shields.io/npm/v/makefast-ai.svg?style=flat-square&color=00C9B1)](https://www.npmjs.com/package/makefast-ai)
+[![npm downloads](https://img.shields.io/npm/dm/makefast-ai.svg?style=flat-square&color=00C9B1)](https://www.npmjs.com/package/makefast-ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen?style=flat-square)](https://nodejs.org)
 
