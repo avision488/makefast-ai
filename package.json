@@ -1,0 +1,58 @@
+{
+  "name": "makefast-ai",
+  "version": "1.0.0",
+  "description": "AI-powered terminal toolkit for developers and founders - ship faster with AI",
+  "main": "index.js",
+  "bin": {
+    "makefast": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "cli",
+    "ai",
+    "startup",
+    "developer-tools",
+    "groq",
+    "terminal",
+    "scaffold",
+    "founder-tools",
+    "makefast",
+    "idea-generator",
+    "saas",
+    "productivity"
+  ],
+  "author": {
+    "name": "avision488",
+    "url": "https://github.com/avision488"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avision488/makefast-ai.git"
+  },
+  "homepage": "https://github.com/avision488/makefast-ai#readme",
+  "bugs": {
+    "url": "https://github.coma/avision488/makefast-ai/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^4.1.2",
+    "cli-table3": "^0.6.5",
+    "commander": "^11.1.0",
+    "dotenv": "^16.4.5",
+    "figlet": "^1.7.0",
+    "fs-extra": "^11.2.0",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^8.2.6",
+    "nanoid": "^3.3.7",
+    "openai": "^4.47.0",
+    "ora": "^5.4.1"
+  },
+  "packageManager": "pnpm@10.33.2+sha512.a90faf6feeab71ad6c6e57f94e0fe1a12f5dcc22cd754db40ae9593eb6a3e0b6b12e3540218bb37ae083404b1f2ce6db2a4121e979829b4aff94b99f49da1cf8"
+}

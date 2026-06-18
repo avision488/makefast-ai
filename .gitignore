@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Environment & secrets
+.env
+.env.local
+.env.*.local
+
+#Logs
+*.log
+logs/
+
+# Makefast local data
+cache/
+~/.makefast/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Config files
+.yaml
+*.yaml
+*.yam
+
+# Editor
+.Vscode/
+.idea/
+*.swp
+*.swo
+
+# npm/pnpm
+.npmrc
+pnpm-lock.yaml
+package-lock.json
