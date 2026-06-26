@@ -21,6 +21,9 @@ The actual coding part usually comes later, Before that, there is a whole messy 
 That repeated starting phase is what this project is for.
 Makefast AI is a CLI tool that puts those early tasks in one place so I stay on the terminal and keep moving insted of bouncing between random tabs and notes.
 
+## DEMO VIDEO
+[![DEMO VIDEO](https://cdn-icons-png.flaticon.com/512/1383/1383260.png)](https://youtu.be/B746aFd9cAs)
+
 ## So what is in here?
 here now, the CLI can help things like:
 - startup or product ideas
