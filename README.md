@@ -218,6 +218,5 @@ Small fixes are fine too.
 
 ## License
 MIT
-made by avision488
-<p align="center">Built by founders, for founders. Ship faster. ⚡</p>
-<p align="center">Made with ❤️ by <a href="https://github.com/avision488">Avision488</a></p>
+
+<p align="center">Made by <a href="https://github.com/avision488">Avision488</a></p>
