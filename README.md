@@ -1,6 +1,6 @@
 #  Makefast AI
 
-> AI-powered crazy useful terminal tool for developers and builders Developed by Avision488
+AI-powered crazy useful terminal tool for developers and builders Developed by Avision488
 
 ```
   ███╗   ███╗ █████╗ ██╗  ██╗███████╗███████╗ █████╗ ███████╗████████╗      █████╗ ██╗
